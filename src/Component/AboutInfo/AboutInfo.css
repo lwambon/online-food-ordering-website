@@ -1,0 +1,50 @@
+.info-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 3rem 2rem;
+    background-color: #f4f4f4;
+  }
+  
+  .info-card {
+    background-color: #fff;
+    width: 28rem;
+    height: 30rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px ;
+    text-align: center;
+    padding: 1rem;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .info-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px ;
+    background-color: rgb(116, 175, 116);
+  }
+  
+  .info-icon {
+    font-size: 4rem;
+    color: green;
+  }
+  
+  .info-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: black;
+    margin-top: 1rem;
+  }
+  
+  .info-information {
+    font-size: 1.5rem;
+    color: black;
+    line-height: 1.6;
+    margin-top: 0.5rem;
+    padding: 0 1rem;
+  }
+  

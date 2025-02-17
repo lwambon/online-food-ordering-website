@@ -1,19 +1,11 @@
 import Hero from "../../Component/Hero/Hero";
-import About from "../../Component/About/About";
-import Chefs from "../../Component/Chefs/Chefs";
-import Testimonials from "../../Component/Testimonials/Testimonials";
-import AboutMore from "../../Component/AboutMore/AboutMore";
-import AboutInfo from "../../Component/AboutInfo/AboutInfo";
+import AboutUs from "../AboutUs/AboutUs";
 
 function Home() {
   return (
     <div>
       <Hero />
-      <About/>
-      <AboutMore/>
-      <AboutInfo/>
-      <Chefs/>
-      <Testimonials/>
+      <AboutUs />
     </div>
   );
 }

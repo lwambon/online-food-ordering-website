@@ -4,7 +4,7 @@ function About() {
   return (
     <div className="about-container">
       <div className="about-left">
-      <h2 className="about-heading">About Us...</h2>
+        <h2 className="about-heading">About Us...</h2>
         <h3 className="about-subheading">Welcome to Fast Food Delivery</h3>
         <p className="about-text">
           Indulge in the symphony of flavors at our exquisite culinary haven,
@@ -19,7 +19,6 @@ function About() {
         </p>
       </div>
 
-      
       <div className="about-right">
         <div className="experience">
           <span className="num">10</span>
@@ -37,14 +36,14 @@ function About() {
           </div>
         </div>
 
-        <div className="happy-customers"> 
+        <div className="happy-customers">
           <span className="num">100+</span>
           <div className="text-part">
             <span className="text1">Happy</span>
             <span className="text2">CUSTOMERS</span>
           </div>
         </div>
-      </div> 
+      </div>
     </div>
   );
 }

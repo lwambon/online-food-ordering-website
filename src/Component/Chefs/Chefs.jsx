@@ -7,10 +7,10 @@ import Chef4 from "../../assets/team-4.jpeg";
 function Chefs() {
   return (
     <div className="chefs-container">
-      <h2 className="chefs-title">Our Top Chefs</h2>
+      <h2 className="chef-title">our top chefs</h2>
       <div className="chef-section">
         <div className="chefs-info">
-          <img  className="chef-image" src={Chef1} alt="Chef 1" />
+          <img className="chef-image" src={Chef1} alt="Chef 1" />
           <h4 className="chefs-name">Micheal Kibet</h4>
           <p className="chefs-title">Head Chef</p>
         </div>

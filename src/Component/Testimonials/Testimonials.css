@@ -1,80 +1,82 @@
-.testimonial-heading{
-    text-align: center;
-    font-style: italic;
-    text-transform: capitalize;
-    font-size: 3rem;
-    color: green;
-    margin-top:2rem;
+.testimonial-heading {
+  text-align: center;
+  font-style: italic;
+  text-transform: capitalize;
+  font-size: 3rem;
+  color: green;
+  margin-top: 2rem;
 }
-.testimonials-subheading{
-    font-size:2.5rem;
-    color: black;
-    margin: 2rem 0;
-    text-transform: capitalize;
-    text-align: center;
-    font-weight: 700;
+.testimonials-subheading {
+  font-size: 2.5rem;
+  color: black;
+  margin: 2rem 0;
+  text-transform: capitalize;
+  text-align: center;
+  font-weight: 700;
 }
 .testimonials-section {
-    padding: 4rem 2rem;
-    background-color: #f9f9f9;
-    text-align: center;
+  padding: 4rem 2rem;
+  background-color: #f9f9f9;
+  text-align: center;
 }
 
 .testimonials-container {
-    max-width: 90%;
-    margin: auto;
+  max-width: 90%;
+  margin: auto;
 }
 
 .slick-slider {
-    padding: 1rem;
+  padding: 1rem;
 }
 
-.slick-prev, .slick-next {
-    font-size: 2rem;
-    color: #2d6a4f;
-    z-index: 2;
+.slick-prev,
+.slick-next {
+  font-size: 2rem;
+  color: #2d6a4f;
+  z-index: 2;
 }
 
 .slick-dots {
-    bottom: -30px;
+  bottom: -30px;
 }
 
 .testimonial-card {
-    background: white;
-    width: 70%;
-    margin: auto;
-    padding: 2rem;
-    border-radius: 1rem;
-    box-shadow: 0 4px 10px ;
-    text-align: center;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    
+  background: white;
+  width: 70%;
+  margin: auto;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 4px 10px;
+  text-align: center;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
 }
 
 .testimonial-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 6px 15px ;
+  transform: translateY(-5px);
+  box-shadow: 0 6px 15px;
 }
 
 .client-image {
-    width: 8rem;
-    height: 8rem;
-    border-radius: 50%;
-    object-fit: cover;
-    border: 4px ;
-    margin-bottom: 1rem;
+  width: 8rem;
+  height: 8rem;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px;
+  margin-bottom: 1rem;
 }
 
 .client-name {
-    font-size: 1.5rem;
-    font-weight: bold;
-    color: green;
-    margin-bottom: 0.5rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: green;
+  margin-bottom: 0.5rem;
 }
 
 .client-feedback {
-    font-size: 1.5rem;
-    color: black;
-    font-style: italic;
-    padding: 0 1rem;
+  font-size: 1.5rem;
+  color: black;
+  font-style: italic;
+  padding: 0 1rem;
 }

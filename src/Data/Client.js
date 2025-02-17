@@ -14,58 +14,61 @@ const ClientInfo = [
   {
     image: Client1,
     name: "James Mwangi",
-    feedback: "The food was delivered fresh and on time. Excellent service!"
+    feedback: "The food was delivered fresh and on time. Excellent service!",
   },
   {
     image: Client2,
     name: "Amina Hassan",
-    feedback: "I love the variety of dishes available! So many great choices."
+    feedback: "I love the variety of dishes available! So many great choices.",
   },
   {
     image: Client3,
     name: "John Otieno",
-    feedback: "The meals are delicious and portions are generous. Highly recommend!"
+    feedback:
+      "The meals are delicious and portions are generous. Highly recommend!",
   },
   {
     image: Client4,
     name: "Stacy Wambui",
-    feedback: "Fast and reliable delivery service. The food was hot and tasty!"
+    feedback: "Fast and reliable delivery service. The food was hot and tasty!",
   },
   {
     image: Client5,
     name: "Brian Kamau",
-    feedback: "Great customer service and the meals exceeded my expectations!"
+    feedback: "Great customer service and the meals exceeded my expectations!",
   },
   {
     image: Client6,
     name: "Linet Chebet",
-    feedback: "Loved the flavors! Authentic and high-quality ingredients."
+    feedback: "Loved the flavors! Authentic and high-quality ingredients.",
   },
   {
     image: Client7,
     name: "George Ouma",
-    feedback: "Best online food delivery experience I've had. Would order again!"
+    feedback:
+      "Best online food delivery experience I've had. Would order again!",
   },
   {
     image: Client8,
     name: "Nancy Nduta",
-    feedback: "Affordable prices and excellent taste. A great value for money."
+    feedback: "Affordable prices and excellent taste. A great value for money.",
   },
   {
     image: Client9,
     name: "Kevin Kiptoo",
-    feedback: "Superb service! The delivery was very fast and efficient."
+    feedback: "Superb service! The delivery was very fast and efficient.",
   },
   {
     image: Client10,
     name: "Catherine Njeri",
-    feedback: "The best food delivery service in town! Always consistent."
+    feedback: "The best food delivery service in town! Always consistent.",
   },
   {
     image: Client11,
     name: "Daniel Mutua",
-    feedback: "My family loves ordering from here! Always a fantastic experience."
-  }
+    feedback:
+      "My family loves ordering from here! Always a fantastic experience.",
+  },
 ];
 
 export default ClientInfo;

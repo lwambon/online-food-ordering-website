@@ -19,14 +19,15 @@ function Navbar() {
               <Link to="/AboutUs">About</Link>
             </li>
             <li>
+              <Link to="/services">services</Link>
+            </li>
+            <li>
               <Link to="/menu">Menu</Link>
             </li>
             <li>
               <Link to="/cart">Cart</Link>
             </li>
-            <li>
-              <Link to="/checkout">Checkout</Link>
-            </li>
+
             <li>
               <Link to="/SignUp">Login/Signup</Link>
             </li>

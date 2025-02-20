@@ -7,6 +7,7 @@ import Menu from "./Pages/Menu/Menu";
 import SignUp from "./Component/SignUp/SignUp";
 import Login from "./Component/Login/Login";
 import Footer from "./Component/Footer/Footer";
+import Services from "./Pages/Services/Services";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/AboutUs" element={<AboutUs />} />
+        <Route path="/services" element={<Services />} />
         <Route path="/menu" element={<Menu />} />
         <Route path="/SignUp" element={<SignUp />} />
         <Route path="/login" element={<Login />} />

@@ -9,7 +9,7 @@ import coldCoffee from "../assets/coldCoffee.jpg";
 import oreoShake from "../assets/oreoShake.jpg";
 import strawberrySmoothie from "../assets/Strawberry  Smoothie.jpg";
 import idliSambar from "../assets/Idli Sambar.jpg";
-import mysoreMasalaDosa from "../assets/Mysore Masala dosa.jpg";
+import mysoreMasalaDosa from "../assets/Mysore masala dosa.jpg";
 import uttapam from "../assets/uttapam.jpeg";
 import whiteSaucePasta from "../assets/White Sauce Pasta (Bechamel Sauce Pasta).jpg";
 import redSaucePasta from "../assets/RED SAUSE.jpg";

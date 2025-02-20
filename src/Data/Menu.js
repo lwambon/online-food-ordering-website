@@ -11,7 +11,7 @@ import strawberrySmoothie from "../assets/Strawberry  Smoothie.jpg";
 import idliSambar from "../assets/Idli Sambar.jpg";
 import mysoreMasalaDosa from "../assets/Mysore masala dosa.jpg";
 import uttapam from "../assets/uttapam.jpeg";
-import whiteSaucePasta from "../assets/White Sauce Pasta (Bechamel Sauce Pasta).jpg";
+import whiteSaucePasta from "../assets/White Sauce Pasta.jpg";
 import redSaucePasta from "../assets/RED SAUSE.jpg";
 import pinkSaucePasta from "../assets/pink Sauce.jpg";
 import schezwanNoodles from "../assets/Schezwan Noodles.jpg";
@@ -25,8 +25,8 @@ import amritsariKulcha from "../assets/Amritsari Kulcha.jpeg";
 import cholaBhatura from "../assets/chola Bhatura.jpeg";
 import lassi from "../assets/dry fruit lassi.jpeg";
 import cheeseNachos from "../assets/chesse nachos.jpeg";
-import veggieNachos from "../assets/veggie Nachos.jpeg";
-import taco from "../assets/taco.jpeg";
+import veggieNachos from "../assets/Veggie Nachos.jpeg";
+import taco from "../assets/Taco.jpeg";
 import guavaJuice from "../assets/Guava juice.jpeg";
 import pineappleJuice from "../assets/pineapple juice.jpeg";
 import orangeJuice from "../assets/orange juice (2).jpg";
@@ -39,7 +39,7 @@ import dalTadka from "../assets/Dal Tadka.jpeg";
 import dalMakhani from "../assets/Dal Makhani.jpeg";
 import dalFry from "../assets/Dal Fry Recipe.jpg";
 import handiPaneer from "../assets/handi Paneer.jpeg";
-import kadaiPaneer from "../assets/kadai Paneer.jpeg";
+import kadaiPaneer from "../assets/Kadai Paneer.jpeg";
 import shahiPaneer from "../assets/Shahi Paneer.jpeg";
 import paneerButterMasala from "../assets/Paneer Butter Masala.jpeg";
 import butterNaan from "../assets/Bullet Naan.jpeg";
@@ -47,7 +47,7 @@ import garlicNaan from "../assets/Garlic  Naan.jpeg";
 import lacchaParatha from "../assets/Lacchha Parantha.jpeg";
 import friedRice from "../assets/fried rice.jpeg";
 import jeeraRice from "../assets/jeera Rice.jpeg";
-import pulao from "../assets/pulao.jpeg";
+import pulao from "../assets/Pulao.jpeg";
 
 const menuItems = [
   {

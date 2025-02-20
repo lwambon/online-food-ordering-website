@@ -3,8 +3,8 @@ import "./About.css";
 function About() {
   return (
     <div className="about-container">
+      <h2 className="about-heading">...About Us...</h2>
       <div className="about-left">
-        <h2 className="about-heading">About Us...</h2>
         <h3 className="about-subheading">Welcome to Fast Food Delivery</h3>
         <p className="about-text">
           Indulge in the symphony of flavors at our exquisite culinary haven,

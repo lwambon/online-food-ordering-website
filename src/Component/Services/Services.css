@@ -3,9 +3,16 @@
   justify-content: space-around;
   flex-wrap: wrap;
   padding: 3rem 2rem;
-  background-color: #f4f4f4;
 }
 
+.service-title {
+  text-align: center;
+  color: green;
+  font-style: italic;
+  font-size: 3rem;
+  font-weight: 700;
+  text-transform: capitalize;
+}
 .info-card {
   background-color: #fff;
   width: 28rem;

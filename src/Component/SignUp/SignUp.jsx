@@ -84,9 +84,9 @@ function SignUp() {
           </button>
         </form>
       </div>
-      <h4 className="login-subsection">
-        already have an account <Link to="/login">login here</Link>
-      </h4>
+      <p className="login-link">
+        Already have an account? <Link to="/login">Login here</Link>
+      </p>
     </div>
   );
 }

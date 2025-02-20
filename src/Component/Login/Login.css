@@ -1,4 +1,4 @@
-.signup-container {
+.login-container {
   max-width: 400px;
   margin: auto;
   padding: 2rem;
@@ -8,19 +8,19 @@
   border-radius: 8px;
 }
 
-.signup-title {
+.login-title {
   color: green;
   font-size: 2rem;
   margin-bottom: 1rem;
 }
 
-.signup-sub-title {
+.login-sub-title {
   font-size: 1.2rem;
   color: #555;
   margin-bottom: 2rem;
 }
 
-.signup-form-content {
+.login-form-content {
   text-align: left;
 }
 
@@ -49,7 +49,7 @@ input:focus {
   border-color: green;
 }
 
-.signup-btn {
+.login-btn {
   width: 100%;
   padding: 10px;
   font-size: 1.2rem;
@@ -60,20 +60,20 @@ input:focus {
   cursor: pointer;
 }
 
-.signup-btn:hover {
+.login-btn:hover {
   background-color: darkgreen;
 }
 
-.login-link {
+.register-link {
   margin-top: 1rem;
   font-size: 1rem;
 }
 
-.login-link a {
+.register-link a {
   color: green;
   text-decoration: none;
 }
 
-.login-link a:hover {
+.register-link a:hover {
   text-decoration: underline;
 }

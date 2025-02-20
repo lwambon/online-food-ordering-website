@@ -6,7 +6,7 @@ import Dish4 from "../assets/Taco.jpeg";
 import Dish5 from "../assets/garlic bread.jpeg";
 import Dish6 from "../assets/Jeera rice.jpeg";
 import Dish7 from "../assets/pastries.jpeg";
-import Dish8 from "../assets/Honey Chilli Potatoes.jfif";
+import Dish8 from "../assets/Honey Chilli Potatoes.jpg";
 import Dish9 from "../assets/Kadai Paneer.jpeg";
 import Dish10 from "../assets/mushroom tikka.jpeg";
 
